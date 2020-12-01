@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Chart-Type-Selection---SPECS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chart-Selection-Icons" transform="translate(-38.000000, -289.000000)">
+            <g id="Widget-Type-Icon-Copy-7" transform="translate(34.000000, 285.000000)">
+                <g id="Horizontal-Bar" transform="translate(32.000000, 32.000000) rotate(-270.000000) translate(-32.000000, -32.000000) translate(4.000000, 4.000000)">
+                    <rect id="bg" x="0" y="0" width="56" height="56"></rect>
+                    <rect id="bar" fill="#07ADD3" x="14" y="16" width="4" height="32"></rect>
+                    <rect id="bar" fill="#05778F" x="38" y="24" width="4" height="24"></rect>
+                    <rect id="bar" fill="#05778F" x="22" y="28" width="4" height="20"></rect>
+                    <rect id="bar" fill="#07ADD3" x="30" y="8" width="4" height="40"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

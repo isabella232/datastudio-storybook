@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Chart-Type-Selection---SPECS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chart-Selection-Icons" transform="translate(-38.000000, -754.000000)">
+            <g id="Widget-Type-Icon-Copy-13" transform="translate(34.000000, 750.000000)">
+                <g id="Pie-Chart" transform="translate(4.000000, 4.000000)">
+                    <rect id="bg" x="0" y="0" width="56" height="56"></rect>
+                    <path d="M42.9671404,30.0008365 C42.4521454,37.8184728 35.9479592,44 28,44 C26.4738058,44 25.0008478,43.7720686 23.6133098,43.3483896 L29.233,29.9997937 L42.9671404,30.0008365 Z" id="slice" fill="#05778F"></path>
+                    <path d="M26.8193953,30.5756211 L21.741235,42.6358682 C18.5326312,41.1607179 15.9340038,38.5863853 14.4277023,35.3952201 L26.8193953,30.5756211 Z" id="slice" fill="#07ADD3"></path>
+                    <path d="M27.0001649,14.0327937 L27,28.3597937 L13.697152,33.5331316 C13.2743435,32.1978708 13.0333452,30.7817494 13.0032178,29.3138282 L13,29 C13,21.0517014 19.1820551,14.5472992 27.0001649,14.0327937 Z" id="slice" fill="#05778F"></path>
+                    <path d="M29.0008365,14.0328596 C36.4880091,14.526085 42.4744708,20.5128585 42.9672063,28.0001649 L29,28 L29.0008365,14.0328596 Z" id="slice" fill="#07ADD3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
